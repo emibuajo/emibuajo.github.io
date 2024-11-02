@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emibuajo.github.io/YQk/sitemap_index.txt
+Sitemap: https://emibuajo.github.io/aLW/sitemap_index.txt
+Sitemap: https://emibuajo.github.io/hne/sitemap_index.txt
+Sitemap: https://emibuajo.github.io/jdm/sitemap_index.txt
